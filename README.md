@@ -1,6 +1,6 @@
-# shops_app
+# Market App
 
-A new Flutter project.
+This a complete app created using Flutter for front-end and Firebase REST API for backend.
 
 ## Getting Started
 
