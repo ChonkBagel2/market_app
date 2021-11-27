@@ -1,16 +1,31 @@
 # Market App
 
-This a complete app created using Flutter for front-end and Firebase REST API for backend.
+## Description
 
-## Getting Started
+This a complete app where a user can purchase or sell items online. Created using Flutter for front-end and Firebase REST API for backend. [DEMO APP]
 
-This project is a starting point for a Flutter application.
+## Main features of the app
 
-A few resources to get you started if this is your first Flutter project:
+Well designed UI.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The State of the App is managed gracefully using the Provider package.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Working with an online Database to fetch/store and view products available.
+
+User authentication using Firebase API.
+
+Easy to navigate through the APP.
+
+Custon Fading transitions and aimations through screens to better user experience.
+
+## Tech Stack 
+
+Dart
+Flutter
+Packages - [intl, provider, shared_preference, etc]
+
+
+
+
+
+
