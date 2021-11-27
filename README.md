@@ -20,8 +20,10 @@ Custon Fading transitions and aimations through screens to better user experienc
 
 ## Tech Stack 
 
-Dart
-Flutter
+Dart,
+
+Flutter,
+
 Packages - [intl, provider, shared_preference, etc]
 
 
