@@ -20,8 +20,8 @@ Custon Fading transitions and aimations through screens to better user experienc
 
 ## Screenshots from the App.
 
-<img src = "/Screenshots/3.png" height = "400"> <img src = "/Screenshots/3.png" height = "400">
-<img src = "/Screenshots/7.png" height = "400"> <img src = "/Screenshots/10.png" height = "400">
+<img src = "/Screenshots/1.png" height = "500"> <img src = "/Screenshots/3.png" height = "500">
+<img src = "/Screenshots/7.png" height = "500"> <img src = "/Screenshots/10.png" height = "500">
 
 ## Tech Stack 
 
