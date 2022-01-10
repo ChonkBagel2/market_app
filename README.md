@@ -2,10 +2,10 @@
 
 ## Screenshots from the App.
 
-<img src = "/Screenshots/3.png" width = "48">
-![Screenshot](/Screenshots/3.png)
-![Screenshot](/Screenshots/7.png)
-![Screenshot](/Screenshots/10.png)
+<img src = "/Screenshots/3.png" height = "200">
+<img src = "/Screenshots/3.png" height = "200">
+<img src = "/Screenshots/7.png" height = "200">
+<img src = "/Screenshots/10.png" height = "200">
 
 ## Description
 
