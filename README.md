@@ -1,12 +1,5 @@
 # Market App
 
-## Screenshots from the App.
-
-<img src = "/Screenshots/3.png" height = "200">
-<img src = "/Screenshots/3.png" height = "200">
-<img src = "/Screenshots/7.png" height = "200">
-<img src = "/Screenshots/10.png" height = "200">
-
 ## Description
 
 This a complete app where a user can purchase or sell items online. Created using Flutter for front-end and Firebase REST API for backend. [DEMO APP]
@@ -24,6 +17,11 @@ User authentication using Firebase API.
 Efficient routing management to navigate throught the APP.
 
 Custon Fading transitions and aimations through screens to better user experience.
+
+## Screenshots from the App.
+
+<img src = "/Screenshots/3.png" height = "400"> <img src = "/Screenshots/3.png" height = "400">
+<img src = "/Screenshots/7.png" height = "400"> <img src = "/Screenshots/10.png" height = "400">
 
 ## Tech Stack 
 
